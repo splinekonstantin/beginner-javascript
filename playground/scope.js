@@ -9,7 +9,6 @@
 // }
 
 // go();
-/* eslint-disable*/
 
 // function isCool(name) {
 //   if (name === 'wes') {
@@ -23,28 +22,28 @@
 //   console.log(i);
 // }
 
+// const dog = 'snickers';
 
-const dog = 'snickers';
+// function logDog(dog) {
+//   console.log(dog);
+// }
 
-function logDog(dog) {
-  console.log(dog);
-}
+// function go() {
+//   const dog = 'sunny';
+//   logDog('sunny');
+// }
 
-function go() {
-  const dog = 'sunny';
-  logDog('sunny');
-}
+// go();
 
-go();
+// function yell() {
+//   console.log(name.toUpperCase())
+// }
 
-function yell() {
-  console.log(name.toUpperCase())
-}
+// function sayHi(name) {
 
-function sayHi(name) {
+//   yell();
+// }
 
-  yell();
-}
+// yell();
 
-
-yell();
+const doctorize = name => `Dr. ${name}`;
